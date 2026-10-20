@@ -13,5 +13,5 @@
 (function () {
     'use strict';
 
-    console.log("Monkey say hellp");
+    console.log("Monkey say bye bye");
 })();
