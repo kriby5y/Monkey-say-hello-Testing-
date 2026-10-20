@@ -6,8 +6,8 @@
 // @author       kriby5y
 // @match        *://*/*
 
-// @downloadURL  https://github.com/kriby5y/Monkey-say-hello-Testing-/blob/main/monkey-say-hello.user.js
-// @updateURL    https://github.com/kriby5y/Monkey-say-hello-Testing-/blob/main/monkey-say-hello.user.js
+// @downloadURL  https://raw.githubusercontent.com/kriby5y/Monkey-say-hello-Testing-/main/monkey-say-hello.user.js
+// @updateURL    https://raw.githubusercontent.com/kriby5y/Monkey-say-hello-Testing-/main/monkey-say-hello.user.js
 // ==/UserScript==
 
 (function () {
