@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Monkey say hello
-// @namespace    https://github.com/kriby5y/monkey-say-hello
+// @namespace    https://github.com/kriby5y/Monkey-say-hello-Testing-
 // @version      0.0.2
 // @description  Logs Hello World on every website
 // @author       kriby5y
 // @match        *://*/*
 
-// @downloadURL  https://raw.githubusercontent.com/kriby5y/Monkey-say-hello-Testing-/monkey-say-hello.user.js
-// @updateURL    https://raw.githubusercontent.com/kriby5y/Monkey-say-hello-Testing-/monkey-say-hello.user.js
+// @downloadURL  https://github.com/kriby5y/Monkey-say-hello-Testing-/blob/main/monkey-say-hello.user.js
+// @updateURL    https://github.com/kriby5y/Monkey-say-hello-Testing-/blob/main/monkey-say-hello.user.js
 // ==/UserScript==
 
 (function () {
