@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Monkey say hello
 // @namespace    https://github.com/kriby5y/monkey-say-hello
-// @version      0.0.1
+// @version      0.0.2
 // @description  Logs Hello World on every website
 // @author       kriby5y
 // @match        *://*/*
