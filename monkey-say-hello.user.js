@@ -2,7 +2,7 @@
 // @name         Monkey say hello
 // @namespace    https://github.com/kriby5y/Monkey-say-hello-Testing-
 // @homepage     https://github.com/kriby5y/Monkey-say-hello-Testing-/
-// @version      0.0.3
+// @version      0.0.4
 // @description  Logs Hello World on every website
 // @author       kriby5y
 // @match        *://*/*
@@ -14,5 +14,5 @@
 (function () {
     'use strict';
 
-    console.log("Monkey say bojour");
+    console.log("Monkey say sayanora");
 })();
